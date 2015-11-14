@@ -3885,7 +3885,7 @@
 	}
 
 		#banner input, #banner select, #banner textarea {
-			color: #ff5722;
+			color: #fff;
 		}
 
 		#banner a {
@@ -3897,7 +3897,7 @@
 		}
 
 		#banner h1, #banner h2, #banner h3, #banner h4, #banner h5, #banner h6 {
-			color: #fff;
+			color: #ff5722;
 		}
 
 		#banner blockquote {
